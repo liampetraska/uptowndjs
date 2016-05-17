@@ -1,0 +1,54 @@
+/* GENERAL LINKS */
+a:link {color: #333333; text-decoration: none} 
+a:active {color: #333333; text-decoration: none} 
+a:visited {color: #333333; text-decoration: none} 
+a:hover {; text-decoration: underline; color: #ff6600} 
+
+/* Accent */
+a.accent:link {color: #cc3300; text-decoration: none} 
+a.accent:active {color: #cc3300; text-decoration: none} 
+a.accent:visited {color: #cc3300; text-decoration: none} 
+a.accent:hover {; text-decoration: underline; color: #cc3300} 
+
+/* MENU */
+a.menu:link {color: #FFCC00; text-decoration: none} 
+a.menu:active {color: #334D66; text-decoration: none} 
+a.menu:visited {color: #FFCC00; text-decoration: none} 
+a.menu:hover {text-decoration: none; color: #CC9900}
+
+/* FOOTER */
+a.footer:link {color: #ffffff; text-decoration: none} 
+a.footer:active {color: #FFffff; text-decoration: none} 
+a.footer:visited {color: #FFffff; text-decoration: none} 
+a.footer:hover {color: #CCcccc; text-decoration: none}
+
+/*INDEX SHOW LISTING*/
+a.showbox:link {color: #006600; text-decoration: none} 
+a.showbox:active {color: #006600; text-decoration: none} 
+a.showbox:visited {color: #006600; text-decoration: none} 
+a.showbox:hover {; text-decoration: none; background-color: #663300; color: #FFCC00} 
+
+/*BIOS*/
+a.bio:link {color: #006600; text-decoration: none} 
+a.bio:active {color: #006600; text-decoration: none; font-family: Geneva, Arial, Helvetica, san-serif; font-size: 12px; font-weight: bold; filter: Xray} 
+a.bio:visited {color: #006600; text-decoration: none} 
+a.bio:hover {; text-decoration: none; color: #000000; cursor: hand; filter: Light} 
+
+/*IN THE PRESS*/
+a.inthepress:link {color: #000000; text-decoration: none} 
+a.inthepress:active {color: #000000; text-decoration: none} 
+a.inthepress:visited {color: #000000; text-decoration: none} 
+a.inthepress:hover {text-decoration: underline; color: #000000} 
+
+/* BODY */
+body {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #000000} 
+
+/* LISTS */
+td {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #333333} 
+li {color: #339966; list-style-type: square} 
+ul {color: #339966; list-style-type: square} 
+ol {color: #339966} 
+
+/* FORMS */ 
+.button	{ font-weight: bold; font-family: verdana, geneva, sans-serif;; font-size: 10px; background-color: #cccccc} 
+.form	{ background-color: #003366; ; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #ffffff} .form:focus { background-color: #ffffff; } 
